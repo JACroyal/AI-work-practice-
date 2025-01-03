@@ -1,6 +1,4 @@
 # AI-work-practice-
-A daily practice of stocks' classification mainly using RandomForest algorithm
-In this project,i mainly used the algorithm called Random Forest,which is based on Decision Tree algorithm.
-If you wanna take some AI projects,i hope this could do a little help for your inspiration,If you think my project have some faults,or maybe there are other ways to achieve or simplify the process, i'll grateful and glad to communicate with you.
-I'm just a green hand about code world,hope to recieve more instruction.
-Thanks!
+A classification and prediction  work of stocks mainly using RandomForest algorithm.
+Use csi300 as work data，put 6 labels by distinguishing the number of days  with an increase in five days.
+Use the machine learning algorithm Random Forest,which is based on Decision Tree algorithm.
